@@ -1,3 +1,3 @@
-# KU-AI_Project_-ThinkWhole-
+# KU-AI_Project_[ThinkWhole]
 
 bio-medical data analysis project
